@@ -63,3 +63,18 @@ app.listen(port,()=>{
     console.log(`Server running`);
     //console.log(cone.agregarDatos(4,1,3,4,5,6));
 })  
+
+
+
+//http://localhost:3001/postRequest?prueba=prueba
+// [
+    
+//     {
+//         "accoun_number": 2,
+//         "campain_number": 3,
+//         "channel": 30,
+//         "offer_type": 30,
+//         "offer_sub_type": 30,
+//         "customerid": 30
+//     }
+// ]
